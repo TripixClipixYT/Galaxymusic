@@ -1,0 +1,16 @@
+{
+    "token": "NjcxNzU0OTU4NjkzMjAzOTgw.XjBmcg.M4FEdCcpjKYCwbVizZdYG04moSs",
+    "token2": "youshouldnotseethishere",
+    "prefix": "gm.",
+    "ownerid": [
+        "473276250815856650",
+        "412377484269584400"
+    ],
+    "nodes": [
+        {
+            "host": "localhost",
+            "port": "3000",
+            "password": "youshallnotpass"
+        }
+    ]
+}
